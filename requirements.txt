@@ -1,0 +1,9 @@
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+
+# Deep learning / GNN
+# Note: exact torch/torch-geometric versions may depend on your CUDA setup.
+torch>=2.2,<3
+torch-geometric>=2.5,<3
+
