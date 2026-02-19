@@ -2,10 +2,11 @@
 
 This repository contains codes for training temporal graph neural network models for elasticity problems.
 
-> **Notice**: scripts include **placeholders** (input data). To run this repo, paths have to be adapted and input data provided.
+> **Notice**: scripts include **placeholders** (input data). To run this repo, paths have to be adapted and input data provided. A dataset will be uploaded by the final publication date.
 ## Scripts:
 
 - **`main.py`**: training and validation;
 - **`main_kendall.py`**: training variant that uses Kendall-style learned loss weights;
 - **`models.py`**: model definitions;
 - **`utils.py`**: normalization helpers.
+
